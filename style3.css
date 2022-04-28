@@ -1,0 +1,236 @@
+body {
+  background-repeat: no-repeat;
+  background-color:  #00b6b6 ;
+  height: 620px;
+  background-position: center;
+  background-size: cover;
+ 
+}
+.container {
+
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+.container01 {
+  width: 225px;
+  height: 46px;
+  display: flex;
+  box-shadow: 0px 0px 14px 0px #0DD4BA ;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffe512;
+}
+.text  {
+  width: var(--dl-size-size-xlarge);
+  font-size: 25px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.container11 {
+  top: 100px;
+  left: 135px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.container12 {
+  top: 419px;
+  left: 135px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.container13 {
+  top: 101px;
+  left: 609px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.container14 {
+  top: 108px;
+  right: 145px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.container15 {
+  top: 421px;
+  left: 606px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.container16 {
+  top: 426px;
+  right: 148px;
+  width: 305px;
+  height: 207px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 30px 10px #0b6b5e;
+  align-items: flex-start;
+  background-color: #ffe512;
+}
+.Container17 {
+  top: 317px;
+  left: 156px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text2 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  
+}
+.Container18 {
+  top: 313px;
+  left: 632px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text3 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+.Container19 {
+  top: 316px;
+  right: 165px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text4 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  
+}
+.Container20 {
+  top: 638px;
+  left: 172px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text5 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+.Container21 {
+  top: 628px;
+  left: 626px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text6 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+.Container22 {
+  top: 638px;
+  right: 162px;
+  width: 252px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.text7 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.dot {
+  top: 21px;
+  flex: 0 0 auto;
+  left: 65px;
+  width: 160px;
+  height: 155px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(0, 182, 182, 0.99);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 50%;
+  background-color: #05ff1b;
+  
+}
+
+
+
+
+
+
+
+
+
